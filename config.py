@@ -8,7 +8,7 @@ API_ID = "24833955"
 # -------------------------------------------------------------
 API_HASH = "176360aef3e85805ea17d304adf63f18"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("7872756754:AAFR7DH3U8tnUPoBPHpnwi3q_8IXGGMh1AQ", None)
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = int(getenv("OWNER_ID", "6474552945"))
 SUPPORT_GRP = "+nJZBaGgAUz84NDQ0"
